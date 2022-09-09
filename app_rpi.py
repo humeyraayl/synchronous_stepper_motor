@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
    th1.start()
    th2.start()
-   sleep(5)
+   sleep(6)
    
 
    print("islem tamamlandi")
